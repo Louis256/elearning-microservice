@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: luyin
+Build-Jdk: 11.0.4
+Implementation-Title: ELearning Application
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: adroit
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/elearning
+Created-By: Maven Integration for Eclipse
+
